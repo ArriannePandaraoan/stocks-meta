@@ -2,7 +2,7 @@
   "name": "bar-graph-tst",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ArriannePandaraoan.github.io/meta_viz_tst",
+  "homepage": "https://ArriannePandaraoan.github.io/meta_viz_tst",
   "dependencies": {
     "@ant-design/charts": "^1.4.2",
     "@antv/g2plot": "^2.4.22",
