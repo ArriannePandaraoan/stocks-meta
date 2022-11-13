@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/stocks-meta/static/css/main.59bc9c01.css",
+    "main.js": "/stocks-meta/static/js/main.7964e857.js",
+    "static/js/787.7db71d05.chunk.js": "/stocks-meta/static/js/787.7db71d05.chunk.js",
+    "static/media/Meta.png": "/stocks-meta/static/media/Meta.cce4f0d0e39b0cce6650.png",
+    "index.html": "/stocks-meta/index.html",
+    "main.59bc9c01.css.map": "/stocks-meta/static/css/main.59bc9c01.css.map",
+    "main.7964e857.js.map": "/stocks-meta/static/js/main.7964e857.js.map",
+    "787.7db71d05.chunk.js.map": "/stocks-meta/static/js/787.7db71d05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59bc9c01.css",
+    "static/js/main.7964e857.js"
+  ]
+}
